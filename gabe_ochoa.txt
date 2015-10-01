@@ -1,0 +1,9 @@
+gabe@binghamton.edu
+Senior
+CS and Math
+
+Courses Taken:
+120,140
+220,240
+350,373,375
+432,440,455,460
