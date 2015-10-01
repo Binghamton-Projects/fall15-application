@@ -7,3 +7,10 @@ Courses Taken:
 220,240
 350,373,375
 432,440,455,460
+
+http://ochoag.com/GabrielOchoa_Resume.pdf
+
+C++/C, Advanced
+Java, Advanced
+Python, Intermediate
+C#, Beginner
