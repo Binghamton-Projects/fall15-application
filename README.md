@@ -9,3 +9,7 @@ Year
 Major
 
 Courses Taken
+
+Resume Link
+
+Languages Known and Level (if not listed on resume)
