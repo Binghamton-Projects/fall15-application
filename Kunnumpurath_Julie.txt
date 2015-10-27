@@ -1,0 +1,9 @@
+jkunnum1@binghamton.edu
+Freshman
+CS
+
+Classes Taken:
+110
+120
+
+Languages: Python (beginner), PHP (beginner), JavaScript (beginner)
